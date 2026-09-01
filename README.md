@@ -23,7 +23,7 @@ be decided on who is the luckiest.
 
 ## Features
 ### Character Classes
-9 Character Classes making 27 unique voicelines.
+9 Character Classes making 27 unique voice lines.
 
 ![Character Classes](screenshots/character_classes.png)
 
@@ -44,7 +44,7 @@ Board is constructed of 7 uniquely designed tiles with different effects and wor
 
 ### Dice
 
-We made 3 different types of dice to accomodate:
+We made 3 different types of dice to accommodate:
 <ul>
   <li>1d2, 2d2, 3d2</li>
   <li>1d4, 2d4, 3d4</li>
@@ -57,7 +57,7 @@ combination of numbers. Each attack form each character rolls different dice and
 
 ### Rules
 
-Dominate Or Decease is an original game with an original and complex ruleset. 
+Dominate Or Decease is an original game with an original and complex rule set. 
 
 ![Rules](assets/Images/rulesDorD.jpg)
 
@@ -66,7 +66,7 @@ Dominate Or Decease is an original game with an original and complex ruleset.
 git clone https://github.com/yourusername/connect4.git
 ```
 
-## Repository Strucutre
+## Repository Structure
 ```
 DominateOrDecease/
 ├───assets/
